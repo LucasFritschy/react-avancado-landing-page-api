@@ -75,6 +75,12 @@
       "repeatable": false,
       "component": "page.section-faq",
       "required": true
+    },
+    "sectionAboutProject": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-about-project",
+      "required": false
     }
   }
 }
